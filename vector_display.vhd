@@ -7,7 +7,7 @@
 -- address | hi byte  | lo byte
 -- 0       | offs_x   | offs_y
 -- 1       | zpt_x    | zpt_y
--- 1       | Nvec     |
+-- 1       |         Nvec     
 -- 2       | x_v1     | y_v1
 -- 3       | l_v1 z_v1| 
 -- 4       | x_v2     | y_v2
